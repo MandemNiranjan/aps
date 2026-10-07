@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/MandemNiranjan/aps/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,12 +63,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/MandemNiranjan/aps/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0735-asteroid-collision](https://github.com/MandemNiranjan/aps/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MandemNiranjan/aps/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/MandemNiranjan/aps/tree/main/0206-reverse-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/MandemNiranjan/aps/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->

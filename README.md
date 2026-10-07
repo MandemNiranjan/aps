@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MandemNiranjan/aps/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/MandemNiranjan/aps/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/MandemNiranjan/aps/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0622-design-circular-queue](https://github.com/MandemNiranjan/aps/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/MandemNiranjan/aps/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MandemNiranjan/aps/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0622-design-circular-queue](https://github.com/MandemNiranjan/aps/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/MandemNiranjan/aps/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/MandemNiranjan/aps/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/MandemNiranjan/aps/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MandemNiranjan/aps/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MandemNiranjan/aps/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/MandemNiranjan/aps/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MandemNiranjan/aps/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion

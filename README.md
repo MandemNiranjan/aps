@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/MandemNiranjan/aps/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/MandemNiranjan/aps/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/MandemNiranjan/aps/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MandemNiranjan/aps/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/MandemNiranjan/aps/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/MandemNiranjan/aps/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/MandemNiranjan/aps/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/MandemNiranjan/aps/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/MandemNiranjan/aps/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MandemNiranjan/aps/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |

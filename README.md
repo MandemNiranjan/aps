@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

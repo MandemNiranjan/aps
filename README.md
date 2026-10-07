@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/MandemNiranjan/aps/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/MandemNiranjan/aps/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MandemNiranjan/aps/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MandemNiranjan/aps/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Array
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/MandemNiranjan/aps/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/MandemNiranjan/aps/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MandemNiranjan/aps/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/MandemNiranjan/aps/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Monotonic Stack

@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/MandemNiranjan/aps/tree/main/1314-matrix-block-sum/) | Medium |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MandemNiranjan/aps/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MandemNiranjan/aps/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1314-matrix-block-sum](https://github.com/MandemNiranjan/aps/tree/main/1314-matrix-block-sum/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MandemNiranjan/aps/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MandemNiranjan/aps/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MandemNiranjan/aps/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->

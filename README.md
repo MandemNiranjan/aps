@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/MandemNiranjan/aps/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -130,11 +131,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MandemNiranjan/aps/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/MandemNiranjan/aps/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MandemNiranjan/aps/tree/main/0020-valid-parentheses/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/MandemNiranjan/aps/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Monotonic Stack
@@ -162,5 +165,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/MandemNiranjan/aps/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 <!---LeetCode Topics End-->

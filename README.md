@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MandemNiranjan/aps/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/MandemNiranjan/aps/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/MandemNiranjan/aps/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/MandemNiranjan/aps/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/MandemNiranjan/aps/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/MandemNiranjan/aps/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/MandemNiranjan/aps/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/MandemNiranjan/aps/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MandemNiranjan/aps/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/MandemNiranjan/aps/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/MandemNiranjan/aps/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MandemNiranjan/aps/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |

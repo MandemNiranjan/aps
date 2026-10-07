@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MandemNiranjan/aps/tree/main/0020-valid-parentheses/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
+| [1704-determine-if-string-halves-are-alike](https://github.com/MandemNiranjan/aps/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MandemNiranjan/aps/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/MandemNiranjan/aps/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 <!---LeetCode Topics End-->

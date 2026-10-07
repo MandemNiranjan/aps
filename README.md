@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/MandemNiranjan/aps/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MandemNiranjan/aps/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,11 +30,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/MandemNiranjan/aps/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MandemNiranjan/aps/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/MandemNiranjan/aps/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MandemNiranjan/aps/tree/main/0101-symmetric-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/MandemNiranjan/aps/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MandemNiranjan/aps/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

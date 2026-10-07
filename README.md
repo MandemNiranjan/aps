@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MandemNiranjan/aps/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/MandemNiranjan/aps/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/MandemNiranjan/aps/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MandemNiranjan/aps/tree/main/0206-reverse-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MandemNiranjan/aps/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/MandemNiranjan/aps/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1396-design-underground-system](https://github.com/MandemNiranjan/aps/tree/main/1396-design-underground-system/) | Medium |
 ## String
@@ -127,5 +129,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MandemNiranjan/aps/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/MandemNiranjan/aps/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MandemNiranjan/aps/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->

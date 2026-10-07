@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/MandemNiranjan/aps/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/MandemNiranjan/aps/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/MandemNiranjan/aps/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1314-matrix-block-sum](https://github.com/MandemNiranjan/aps/tree/main/1314-matrix-block-sum/) | Medium |
 | [1472-design-browser-history](https://github.com/MandemNiranjan/aps/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MandemNiranjan/aps/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Sliding Window
@@ -169,4 +170,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MandemNiranjan/aps/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/MandemNiranjan/aps/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1314-matrix-block-sum](https://github.com/MandemNiranjan/aps/tree/main/1314-matrix-block-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1314-matrix-block-sum](https://github.com/MandemNiranjan/aps/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->

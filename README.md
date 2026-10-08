@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/MandemNiranjan/aps/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MandemNiranjan/aps/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/MandemNiranjan/aps/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/MandemNiranjan/aps/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/MandemNiranjan/aps/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MandemNiranjan/aps/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/MandemNiranjan/aps/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/MandemNiranjan/aps/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/MandemNiranjan/aps/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MandemNiranjan/aps/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/MandemNiranjan/aps/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/MandemNiranjan/aps/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/MandemNiranjan/aps/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MandemNiranjan/aps/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Stack
@@ -228,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MandemNiranjan/aps/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/MandemNiranjan/aps/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
